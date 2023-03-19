@@ -1,4 +1,4 @@
-# Thurst-Vector-Control-Model
+# Thurst-Vector-Control-And-Flight-Computer-Model
 This project involves a functional TVC Mount/Model for Rocket Engines.
 Primarily It consists of three 3D printed parts that serve as the mount for your Rocket Engine and is controlled by the Flight Computer.
 The flight computer mainly is composed of a ESP32, RED LED(for power indication), BMP180 Sensor, NEO-6M GPS Module and the MPU6050 GYRO-ACC Sensor.
